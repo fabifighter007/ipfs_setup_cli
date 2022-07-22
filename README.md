@@ -1,6 +1,6 @@
 [ Download script ]  
     
-    wget https://raw.githubusercontent.com/Docushield/ipfs_setup/main/ipfs.sh
+    wget https://raw.githubusercontent.com/Docushield/ipfs_setup_cli/main/ipfs.sh
 
 
 [ Make script executable ]  
