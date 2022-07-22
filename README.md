@@ -5,10 +5,10 @@
 
 [ Make script executable ]  
      
-    sudo chmod +x ~/.ipfs.sh
+    sudo chmod +x ~/ipfs.sh
 
 
 [ Run Script ]  
      
-    ~/.ipfs.sh
+    ~/ipfs.sh
 
