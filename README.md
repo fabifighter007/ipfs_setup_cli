@@ -13,3 +13,7 @@
      
     ~/ipfs.sh
 
+[ Autostart ]
+    
+    echo $'@reboot root /usr/local/bin/ipfs daemon &' > /etc/cron.d/docushield
+
